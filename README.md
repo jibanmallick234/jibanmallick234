@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ About Me<br><br>* 💻 Passionate Web Developer<br>* 🚀 Love building modern & user-friendly websites<br>* 🌐 Skilled in HTML, CSS, JavaScript & Django<br>* 🎨 Interested in UI/UX and creative web design<br>* 📚 Always learning new technologies & improving skills<br>* 🛠️ Build projects based on real-world ideas<br>* 🤝 Open to internships, collaborations & open-source contributions<br>* ⚡ Turning ideas into interactive web experiences<br>
+<br><br>* 💻 Passionate Web Developer<br>* 🚀 Love building modern & user-friendly websites<br>* 🌐 Skilled in HTML, CSS, JavaScript & Django<br>* 🎨 Interested in UI/UX and creative web design<br>* 📚 Always learning new technologies & improving skills<br>* 🛠️ Build projects based on real-world ideas<br>* 🤝 Open to internships, collaborations & open-source contributions<br>* ⚡ Turning ideas into interactive web experiences<br>
 
 
 # 💻 Tech Stack:
