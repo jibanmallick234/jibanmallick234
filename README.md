@@ -1,5 +1,21 @@
 # 💫 About Me:
-<br><br>* 💻 Passionate Web Developer<br>* 🚀 Love building modern & user-friendly websites<br>* 🌐 Skilled in HTML, CSS, JavaScript & Django<br>* 🎨 Interested in UI/UX and creative web design<br>* 📚 Always learning new technologies & improving skills<br>* 🛠️ Build projects based on real-world ideas<br>* 🤝 Open to internships, collaborations & open-source contributions<br>* ⚡ Turning ideas into interactive web experiences<br>
+
+🎓 B.Tech 4th Year Student at GITA Autonomous College, Bhubaneswar  
+🚀 Passionate Web Developer from Odisha, India  
+💻 Building modern, responsive & user-friendly web applications  
+⚡ Django & Python Enthusiast  
+🎨 Interested in UI/UX and creative web design  
+
+### Skills
+- 🌐 HTML, CSS, JavaScript
+- 🐍 Python & Django
+- 💻 Full-Stack Web Development
+- 🎯 Responsive UI Design
+
+### Current Focus
+- 🚀 Building real-world projects
+- 💡 Improving problem-solving skills
+- 🌍 Exploring modern web technologies
 
 
 # 💻 Tech Stack:
